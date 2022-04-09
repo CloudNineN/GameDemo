@@ -1,0 +1,11 @@
+D:\Develop\C#\GameDemo\GameDemo\bin\Debug\GameDemo.exe.config
+D:\Develop\C#\GameDemo\GameDemo\bin\Debug\GameDemo.exe
+D:\Develop\C#\GameDemo\GameDemo\bin\Debug\GameDemo.pdb
+D:\Develop\C#\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.AssemblyReference.cache
+D:\Develop\C#\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.SuggestedBindingRedirects.cache
+D:\Develop\C#\GameDemo\GameDemo\obj\Debug\GameDemo.Form1.resources
+D:\Develop\C#\GameDemo\GameDemo\obj\Debug\GameDemo.Properties.Resources.resources
+D:\Develop\C#\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.GenerateResource.cache
+D:\Develop\C#\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.CoreCompileInputs.cache
+D:\Develop\C#\GameDemo\GameDemo\obj\Debug\GameDemo.exe
+D:\Develop\C#\GameDemo\GameDemo\obj\Debug\GameDemo.pdb
